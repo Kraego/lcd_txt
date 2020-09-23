@@ -14,7 +14,7 @@ Line by line.
     * Example: *py .\source\lcdtxt.py ".\testdata\scenarioSame" -o "commontext.txt"*
 * Run build:
   * Open shell
-    * *lcdtxt.exe -h* (see abover)
+    * *lcdtxt.exe -h* (see above)
 
 # How to build
 
