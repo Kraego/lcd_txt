@@ -1,0 +1,6 @@
+I' am a test file with plenty lines
+NOT
+123456
+I' am a test file with plenty lines
+NOT
+123456

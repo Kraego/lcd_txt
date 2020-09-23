@@ -1,0 +1,5 @@
+##########
+I' am a test file with plenty lines
+NOT
+123456
+*********
